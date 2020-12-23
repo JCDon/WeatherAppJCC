@@ -8,6 +8,10 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
 
+## Screenshot
+
+![Screenshot](WeatherApp.png)
+
 ## Acceptance Criteria
 
 ```
@@ -25,3 +29,25 @@ THEN I am again presented with current and future conditions for that city
 WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 ```
+
+## Psuedo-Code
+
+// User needs to get weather
+
+    // user can search city
+
+        // there is an input option on the page
+
+    // user can view current weather data
+
+        // there is an active card displaying temp, humidity, wind, and the uv index
+
+    // user can view the forecast
+
+        // there is a semi functional display of the weekdays monday-friday
+
+    // user can see past search options
+
+        // buttons exist displaying the past searches
+
+        // more buttons can be added by searching a city
