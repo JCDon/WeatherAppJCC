@@ -1,0 +1,67 @@
+.page {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.title {
+    text-align: center;
+    padding: 10px;
+    font-size: 48px;
+    color: white;
+}
+
+.wide {
+    width: 100%;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    margin: 5px;
+}
+
+.paddedTop {
+    padding-top: 10px;
+}
+
+.holder {
+    float: left;
+    padding: 60px;
+    padding-top: 30px;
+}
+
+.cardWidth {
+    max-width: 14rem;
+    margin: 8px;
+    background-color: rgba(68, 68, 245, 0.925);
+    
+}
+
+.bottom {
+    float: right; 
+}
+
+#search {
+    margin: none;
+}
+
+#uv {
+    border-radius: 4px;
+}
+
+.safe {
+    background-color: rgb(38, 184, 38);
+    color: white;
+}
+
+.risky {
+    background-color: coral;
+    color: black;
+}
+
+.danger {
+    background-color: red;
+}
+
+.deadly {
+    background-color: rebeccapurple;
+}
